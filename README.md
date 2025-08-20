@@ -9,13 +9,10 @@
 
 ##### This is done by :
 
-##### &nbsp;	i. Protecting the customer from any fraud or hacking to preserve his data
-
-##### &nbsp;	ii. Protecting the bank from any losses in the event of any fraud
-
-##### &nbsp;	iii. Provides an exchange of trust between customers and the bank
-
-##### &nbsp;	iv. Increases the number of customers at the bank that uses the fraud against protection system
+1. ##### Protecting the customer from any fraud or hacking to preserve his data
+2. ##### Protecting the bank from any losses in the event of any fraud
+3. ##### Provides an exchange of trust between customers and the bank
+4. ##### Increases the number of customers at the bank that uses the fraud against protection system
 
 # Dataset Description ?
 
